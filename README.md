@@ -2,3 +2,15 @@ This was a class research project to investigate alternatives to a well known ma
 
 The materials we examined include mycelium(mushroom-based packaging) and porous clay-organic composites.
 Through our research we found both these alternatives are much more environmentally friendly while not compromising crucial mechanical properties of the packaging material. Economic barriers for these alternatives are still present for realistic implementation in society, as both are still more expensive to process than Styrofoam. Nonetheless, we hope the alternatives found through this study can replace Styrofoam in the near future.
+
+Team Members involved in this study include:
+
+1) Isaiah Stevens
+
+2) Kyle Johnson
+
+3) Kyla Woodruff
+
+4) Michael O'Brien
+
+My contribution was in researching the toxicity of our selected materials as well as the environmental impact. 
