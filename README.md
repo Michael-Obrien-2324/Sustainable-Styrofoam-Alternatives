@@ -13,4 +13,4 @@ Team Members involved in this study include:
 
 4) Michael O'Brien
 
-My contribution was in researching the toxicity of our selected materials as well as the environmental impact. 
+My responsibilities were to research in depth the toxicity of our selected materials. I additionally contributed to the findings regarding environmental impact.
