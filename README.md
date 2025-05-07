@@ -1,4 +1,4 @@
 This was a class research project to investigate alternatives to a well known material. We chose styrofoam as a potential material to improve because of its harmful impact to the environment. Therefore the main focus of this study was to find material alternatives to Styrofoam for sustainability efforts.
 
-The materials we examined include mushroom-based packaging (mycelium) and porous clay-organic composites.
-Through our research we found both these alternatives are more environmentally friendly while not sacrifcing materials properrties of styrofoam. Economic barriers for these alternatives are still present for high implementation in society, as both are still more expensive to process than Styrofoam. Nonetheless, we hope the alternaties mentioned iin the study can replace Styrofoam in the near future.
+The materials we examined include mycelium(mushroom-based packaging) and porous clay-organic composites.
+Through our research we found both these alternatives are much more sustainable while not compromising ccrucial mechanical properties of the packaging material. Economic barriers for these alternatives are still present for realistic implementation in society, as both are still more expensive to process than Styrofoam. Nonetheless, we hope the alternaties found through this study can replace Styrofoam in the near future.
